@@ -34,9 +34,7 @@ Variable     | Description
 `DB_PORT`    | Database port
 `REDIS_HOST` | Redis Host
 `REDIS_PORT` | Redis Port
-
 `ODOO_MODE`  | Image start mode
-
 `MODULES_TO_INSTALL` | Modules to install on `install-update-modules` mode
 
 The image start mode can be:
